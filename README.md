@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanshriva" alt="aryanshriva" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m a **Software Engineer**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **High End Projects**
 
 - 💬 You can follow me on LinkedIn: **https://www.linkedin.com/in/aryan-shriva-0811/**
 
